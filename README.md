@@ -1,5 +1,5 @@
 ### Hi there 👋
-[https://egrsobn.github.io/EgrSobn/](https://egrsobn.github.io/EgrSobn/)
+[Ссылка на портфолио](https://egrsobn.github.io/EgrSobn/)
 
 <!--
 **EgrSobn/EgrSobn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
