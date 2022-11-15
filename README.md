@@ -1,5 +1,6 @@
-### Hi there 👋
-[Ссылка на портфолио](https://egrsobn.github.io/EgrSobn/)
+### Сайт, созданный на базе CMS Lektor, в рамках университетской дисциплины.
+[Ссылка на портфолио GitHub Pages](https://egrsobn.github.io/EgrSobn/)
+[Ссылка на портфолио личный домен](https://test.egrsobn.xyz/)
 
 <!--
 **EgrSobn/EgrSobn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
